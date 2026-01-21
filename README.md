@@ -25,7 +25,7 @@
 
 | Perfil de mascota | Editando perfil |
 |-----------------|----------------|
-| ![perfil](assets/PerfilMascota.jpg) | ![editar](assets/EditarPerfil) |
+| ![perfil](assets/PerfilMascota.jpg) | ![editar](assets/EditarPerfil.jpg) |
 
 ---
 
